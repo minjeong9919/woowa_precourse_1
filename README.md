@@ -1,1 +1,6 @@
-# javascript-calculator-precourse
+# javascript-calculator-precourse 
+## 구현할 기능 목록
+<li>문자열 입력을 입력받은 후, 문자열 앞부분에 커스텀 구분자가 있는지 확인한다.</li>
+<li>구분자(또는 커스텀 구분자)를 기준으로 숫자를 분리한다.</li>
+<li>분리된 숫자들의 합을 구한다.</li>
+<li>사용자가 잘못된 값을 입력할 경우, Error를 발생시킨 후, 애플리케이션은 종료된다.</li>
